@@ -12,7 +12,10 @@ const Home = ({ isDarkMode, toggleDarkMode }) => {
       <Header isDarkMode={isDarkMode} toggleDarkMode={toggleDarkMode} />
       <main>
         <Hero />
-        
+        <Features />
+        <FeatureBlocks />
+        <Testimonials />
+        <Newsletter />
       </main>
       <Footer />
     </div>

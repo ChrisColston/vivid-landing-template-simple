@@ -14,16 +14,10 @@ export const Footer = () => {
             width="40"
           />
           <div className="text-sm text-gray-600 dark:text-gray-400">
-            &copy; Vivid Labs, Inc. 2022
+            &copy; Wave5 Cyber Solutions. 2024
           </div>
         </div>
-        <a
-          href="https://join.slack.com/t/vivid-jqa6824/shared_invite/zt-1f7tbxl86-wruO1aM7FYmEdNaOOnYCMQ"
-          aria-label="Join Slack"
-          className="text-gray-600 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-lg text-sm p-2.5"
-        >
-          Join our Slack!
-        </a>
+
       </div>
     </footer>
   );

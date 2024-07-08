@@ -58,23 +58,7 @@ export const Header = ({ isDarkMode, toggleDarkMode }) => {
             </button>
           </li>
         ) : null}
-        <li>
-          <Link
-            href="/"
-            className="text-gray-600 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-lg text-sm p-2.5"
-          >
-            Docs
-          </Link>
-        </li>
-        <li className={`transition ${!nextSection && "hidden"}`}>
-          <button
-            type="button"
-            onClick={goToEmail}
-            className="px-4 py-2 font-bold rounded-lg text-gray-50 bg-primary-600 hover:bg-primary-700 w-fit"
-          >
-            Waitlist
-          </button>
-        </li>
+       
       </ul>
     </nav>
   );

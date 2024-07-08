@@ -37,14 +37,14 @@ export const Hero = () => {
             data-aos="zoom-y-out"
             className="text-5xl font-bold leading-tight tracking-tighter text-gray-800 md:text-7xl dark:text-gray-100"
           >
-            Build{" "}
+            {" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-pink to-neon-blue">
-              visually.
+              Wave5.
             </span>
             <br />
-            Code{" "}
+            Cyber{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-teal">
-              faster.
+              Solutions
             </span>
           </h1>
           <p
@@ -52,8 +52,7 @@ export const Hero = () => {
             data-aos-delay="150"
             className="text-lg text-gray-600 md:text-xl dark:text-gray-400"
           >
-            Vivid makes front-end development effortless with our in-browser
-            visual editor to modify your code.
+            Wave5 Cyber Solutions is a cutting-edge cybersecurity firm dedicated to safeguarding businesses and organizations from digital threats.
           </p>
           <div
             className="flex flex-col"
@@ -93,7 +92,7 @@ export const Hero = () => {
             <p className="mt-3 text-sm text-gray-600 dark:text-gray-400">
               {emailSubmitted
                 ? "We'll keep you posted!"
-                : "Be the first to experience Vivid."}
+                : "Sign up and we'll be in touch."}
             </p>
           </div>
         </div>
