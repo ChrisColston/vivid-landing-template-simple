@@ -10,3 +10,7 @@
 *:focus {
   outline: auto;
 }
+
+#vivid-root-app {
+  display:none
+}
