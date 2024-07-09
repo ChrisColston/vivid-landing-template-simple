@@ -52,7 +52,7 @@ export const Hero = () => {
             data-aos-delay="150"
             className="text-lg text-gray-600 md:text-xl dark:text-gray-400"
           >
-            Wave5 Cyber Solutions is a cutting-edge cybersecurity firm dedicated to safeguarding businesses and organizations from digital threats.
+            Wave5 Cyber Solutions is a cutting-edge cybersecurity firm dedicated to safeguarding businesses and organisations from digital threats.
             <br>
           </br>
           <br>
