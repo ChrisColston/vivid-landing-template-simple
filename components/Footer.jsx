@@ -14,7 +14,7 @@ export const Footer = () => {
             width="40"
           />
           <div className="text-sm text-gray-600 dark:text-gray-400">
-            &copy; Wave5 Cyber Solutions. 2024
+            &copy; Wave5. Cyber Solutions. 2024
           </div>
         </div>
 

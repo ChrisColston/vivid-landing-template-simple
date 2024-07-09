@@ -35,7 +35,7 @@ export const Header = ({ isDarkMode, toggleDarkMode }) => {
         <Image src="/images/logo.png" alt="Vivid logo" height="40" width="40" />
         <div className="text-3xl font-bold">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-pink to-neon-blue">
-            Wave5
+            Wave5.
           </span>
         </div>
       </div>

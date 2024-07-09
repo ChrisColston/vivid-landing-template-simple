@@ -53,7 +53,13 @@ export const Hero = () => {
             className="text-lg text-gray-600 md:text-xl dark:text-gray-400"
           >
             Wave5 Cyber Solutions is a cutting-edge cybersecurity firm dedicated to safeguarding businesses and organizations from digital threats.
+            <br>
+          </br>
+          <br>
+          </br>
+          
           </p>
+          
           <div
             className="flex flex-col"
             data-aos="zoom-y-out"
@@ -65,7 +71,7 @@ export const Hero = () => {
             >
               <input
                 type="email"
-                placeholder="richard.hendricks@piedpiper.com"
+                placeholder="your.name@email.com"
                 aria-label="Your email"
                 name="email"
                 id="hero-waitlist"

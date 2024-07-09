@@ -4,7 +4,7 @@
 /* Import Tailwind classes */
 @tailwind base;
 @tailwind components;
-@tailwind utilities;  
+@tailwind utilities;
 
 /* Make focus ring prettier */
 *:focus {
