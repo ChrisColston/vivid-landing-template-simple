@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 import Image from "next/image";
-
+import { FeatureIcons } from "../svg/FeatureIcons";
 import { ScatteredSpheres } from "../svg/ScatteredSpheres";
 import MacBarSrc from "../public/images/mac-bar.png";
 
